@@ -1,0 +1,13 @@
+﻿body {
+    .under
+
+{
+    background: linear-gradient(transparent 60%, #9FFEF7 60%);
+    font-family: "noto sans";
+}
+
+.header {
+    text-decoration: underline;
+    font-family: "noto sans";
+}
+}
